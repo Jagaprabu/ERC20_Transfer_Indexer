@@ -98,3 +98,6 @@ CONTRACT_ADDRESS = "paste your contrtact address"
 
 - Then call your API on postman to see the trasnferEvent transaction result.
 ![Screesnshots](screenshots/7.png)
+
+## Transaction URL:
+https://goerli.etherscan.io/token/0x68e964df8f89f1d99f74c93f4b579fce041f5a41
